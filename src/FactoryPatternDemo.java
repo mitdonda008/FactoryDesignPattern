@@ -28,9 +28,6 @@ public class FactoryPatternDemo {
 
 		//call draw method of triangle
  		shape4.draw();
-		
-		Shape shape5 = shapeFactory.getShape("PENTAGON");
-		shape5.draw();
 
 	}
 
