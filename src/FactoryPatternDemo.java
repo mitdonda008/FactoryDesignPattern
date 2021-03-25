@@ -23,8 +23,8 @@ public class FactoryPatternDemo {
 		//call draw method of square
 		shape3.draw();
 
-// 		Shape shape4 = shapeFactory.getShape("TRIANGLE");
-// 		shape4.draw();
+ 		Shape shape4 = shapeFactory.getShape("TRIANGLE");
+ 		shape4.draw();
 
 	}
 
